@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack_Task", "Stack_Task\Stack_Task.vcxproj", "{46FB0A44-B270-4BA7-8EDE-A6598DC6F3FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SList", "SList\SList.vcxproj", "{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{46FB0A44-B270-4BA7-8EDE-A6598DC6F3FD}.Release|x64.Build.0 = Release|x64
 		{46FB0A44-B270-4BA7-8EDE-A6598DC6F3FD}.Release|x86.ActiveCfg = Release|Win32
 		{46FB0A44-B270-4BA7-8EDE-A6598DC6F3FD}.Release|x86.Build.0 = Release|Win32
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Debug|x64.ActiveCfg = Debug|x64
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Debug|x64.Build.0 = Debug|x64
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Debug|x86.Build.0 = Debug|Win32
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Release|x64.ActiveCfg = Release|x64
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Release|x64.Build.0 = Release|x64
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Release|x86.ActiveCfg = Release|Win32
+		{8A1CF6D4-CE6E-414D-A2B0-B2BD1F28A3D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
